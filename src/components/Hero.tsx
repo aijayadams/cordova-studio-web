@@ -25,7 +25,7 @@ export default function Hero() {
             Interior Architecture &amp; Design
           </p>
           <h1 className="font-serif text-5xl font-normal leading-[0.95] text-warm-white md:text-7xl lg:text-8xl">
-            Cordova
+            The Cordova
             <span className="block italic text-accent-light">Studio</span>
           </h1>
           <p className="mt-8 max-w-xl text-base font-light leading-relaxed text-warm-white/72 md:text-lg">
