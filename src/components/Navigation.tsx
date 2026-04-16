@@ -35,7 +35,7 @@ export default function Navigation() {
             scrolled ? "text-charcoal" : "text-warm-white"
           }`}
         >
-          Cordova Studio
+          The Cordova Studio
         </Link>
 
         {/* Desktop nav */}
